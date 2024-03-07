@@ -1,2 +1,3 @@
-#REPLICASGIT
-Este repositorio lo usaremos para el entrenamiento
+# ReplicasGIT
+---
+:copyright: 2024
